@@ -1,7 +1,7 @@
 import subprocess
 import sys
 
-BRANCH = "Session07"
+BRANCH = "Session08"
 COMMIT_MESSAGE = BRANCH
 
 
